@@ -25,9 +25,8 @@ Cyclistic’s marketing team wants to understand how different types of riders u
 
 📊 **Key Insights**
 
-- Casual riders tend to ride more on weekends and during warmer months
-- Annual members show consistent usage throughout the week
-- Ride length is significantly longer for casual riders
+- Subscibers show consistent usage throughout the week
+- Ride length is significantly longer for customers
 - Gender and birth year data provide additional segmentation opportunities
 
 📌 **Business Recommendations**
