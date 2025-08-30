@@ -1,5 +1,5 @@
 # Cyclistic Case Study – Google Data Analytics Capstone
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 ![Made with R Markdown](https://img.shields.io/badge/Made%20with-R%20Markdown-blue)
 
 Welcome to my capstone project for the Google Data Analytics Certificate. In this case study, I step into the role of a junior data analyst at Cyclistic, a fictional bike-share company in Chicago. The goal is to analyze user behavior and provide actionable insights.
