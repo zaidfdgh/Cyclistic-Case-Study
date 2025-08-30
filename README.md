@@ -36,6 +36,12 @@ Based on the analysis, I propose:
 - Incentives for longer-term membership sign-ups
 - Personalized campaigns using demographic insights
 
+  ## 🌐 Live HTML Report
+
+View the full Cyclistic Case Study here:  
+👉 [Live HTML Version](https://zaidfdgh.github.io/Cyclist-Case-Study/Cyclist-Case-Study-R-Markdown.html)
+
+
 **Contact**
 
 If you’d like to connect or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaid-alfaddagh/) or send me an [email](to:zaidfdgh@gmail.com)!
