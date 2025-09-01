@@ -37,5 +37,5 @@ View the full Cyclistic Case Study here:
 👉 [Cyclistic Case Study – Live HTML Version](https://zaidfdgh.github.io/Cyclistic-Case-Study/Cyclist-Case-Study-R-Markdown.html)
 
 ### Contact  
-If you’d like to connect or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaid-alfaddagh/) or send me an [email](to:zaidfdgh@gmail.com)!
+If you’d like to connect or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaid-alfaddagh/) or send me an [email](mailto:zaidfdgh@gmail.com)!
 
