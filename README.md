@@ -46,7 +46,7 @@ View interactive dashboard here:
 
 ### 📊 Visual Summary
 
-![Dashboard](https://github.com/zaidfdgh/Cyclistic-Case-Study/blob/main/cyclistic%20dashboard%20snapshot.PNG)
+![(https://github.com/zaidfdgh/Cyclistic-Case-Study/blob/main/cyclistic%20dashboard%20snapshot.PNG)](https://github.com/zaidfdgh/Cyclistic-Case-Study/blob/main/cyclistic-dashboard-snapshot.PNG)
 
 ### 📧 Contact  
 If you’d like to connect or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaid-alfaddagh/) or send me an [email](mailto:zaidfdgh@gmail.com)!
