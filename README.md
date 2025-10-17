@@ -20,7 +20,7 @@ Cyclistic’s marketing team wants to understand how different types of riders u
 | **ggplot2** | Static visualizations |
 | **plotly** | Interactive charts |
 | **R Markdown** | Documentation and reporting |
-| **Power BI**   | Data Visualization        |
+| **Power BI**   | Data visualization |
 
 ### 🔑 Key Insights  
 - Subscibers show consistent usage throughout the week
