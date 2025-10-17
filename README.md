@@ -36,6 +36,16 @@ Based on the analysis, I propose:
 View the full Cyclistic Case Study here:  
 👉 [Cyclistic Case Study – Live HTML Version](https://zaidfdgh.github.io/Cyclistic-Case-Study/Cyclist-Case-Study-R-Markdown.html)
 
+## 📊 Interactive Dashboard
+
+View interactive dashboard here:  
+
+👉 [Power BI - Cyclistic Case Study Dashboard](https://app.powerbi.com/groups/me/reports/9283a51e-942b-4d4b-ba96-33b379922693/f620d2eab1b79ad6475e?experience=power-bi)
+
+## Visual Summary
+
+![Dashboard](https://github.com/zaidfdgh/credit-card-churn-prediction/blob/main/dashboard_snapshot.PNG)
+
 ### Contact  
 If you’d like to connect or have feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaid-alfaddagh/) or send me an [email](mailto:zaidfdgh@gmail.com)!
 
