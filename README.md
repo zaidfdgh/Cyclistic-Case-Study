@@ -23,7 +23,7 @@ Cyclistic’s marketing team wants to understand how different types of riders u
 | **Power BI**   | Interactive dashboard |
 
 ### 🔑 Key Insights  
-- Subscibers show consistent usage throughout the week
+- Subscribers show consistent usage throughout the week
 - Ride length is significantly longer for customers
 - Gender and birth year data provide additional segmentation opportunities
   
